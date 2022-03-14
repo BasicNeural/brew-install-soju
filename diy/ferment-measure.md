@@ -12,7 +12,7 @@
 
 ## 제작
 
-![](/resources/sensor.png)
+<img src='/resources/sensor.png' width="600">
 
 ## 코드
 
