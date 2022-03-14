@@ -18,6 +18,8 @@
 
 <img src='/resources/airlock-cover.png' width="600">
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iYYRH4apXDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 자료
 
 [NodeMCU 코드](/diy/codes/ferment_measure.ino)
