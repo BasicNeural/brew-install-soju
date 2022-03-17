@@ -1,9 +1,9 @@
 # 양조 사전
 
-* 청징
+* [청징](/wiki/contents/clarifying.md)
 * 살균
-* 에어락
-* 효모
+* [에어락](/wiki/contents/airlock.md)
+* [효모](/wiki/contents/leaven.md)
 * 효모 스타터
 * 당도
 * 비중
