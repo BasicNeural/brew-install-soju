@@ -1,6 +1,7 @@
 # 양조 사전
 
 * [청징](/wiki/contents/clarifying.md)
+* [벤토나이트](/wiki/contents/bentonite.md)
 * 살균
 * [에어락](/wiki/contents/airlock.md)
 * [효모](/wiki/contents/leaven.md)
